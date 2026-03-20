@@ -1,3 +1,36 @@
-header, main {
-    background-color: burlywood;
+header {
+    background-color: cyan;
+    color: chocolate;
+}
+
+h1 {
+    background-color: aquamarine;
+    color: black;
+}
+
+main {
+    background-color: red;
+    color: white;
+}
+
+#destaque {
+    color: black;
+}
+
+footer p {
+    font-size: 50px;  /*Altera todos os parágrafos que estão dentro do elemento footer.*/
+}
+
+/*Header*/
+
+.paragrafo_grande {
+    background-color: green;
+}
+
+.impar {
+    background-color: blue;
+}
+
+.par {
+    background-color: yellow;
 }
